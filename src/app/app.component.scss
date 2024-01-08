@@ -1,0 +1,54 @@
+/* app-number-to-words.component.scss */
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+h1{
+    text-align:center;
+    background-color: black;
+    color:white;
+    font-size:30px;
+    padding:10px;
+}
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .output {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .convert-button {
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .convert-button:hover {
+    background-color: #45a049;
+  }
+  
